@@ -3,6 +3,7 @@ META-DATA: {"description":"test","groups":["SMOKE"]}
 	
     Given User launch browser
     And opens URL 'https://demo.opencart.com/'   
+    And I added some changes
     
     END
 	
