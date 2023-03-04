@@ -4,6 +4,7 @@ META-DATA: {"description":"test","groups":["SMOKE"]}
     Given User launch browser
     And opens URL 'https://demo.opencart.com/'   
     And I added some changes
+    And I am adding some changes in local repo
     
     END
 	
