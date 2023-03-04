@@ -1,0 +1,6 @@
+SCENARIO:
+META-DATA: {"description":"test", "groups":["smoke"]}
+  GIVEN check in GIT
+  
+
+END
