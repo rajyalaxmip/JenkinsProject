@@ -1,6 +1,7 @@
 SCENARIO:
 META-DATA: {"description":"test", "groups":["smoke"]}
   GIVEN check in GIT
+  when adding files to branch
   
 
 END
