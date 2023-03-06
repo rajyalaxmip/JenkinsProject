@@ -5,6 +5,7 @@ META-DATA: {"description":"test","groups":["SMOKE"]}
     And opens URL 'https://demo.opencart.com/'   
     And I added some changes
     And I am adding some changes in local repo
+    AND I added to br2 branch
     
     END
 	
