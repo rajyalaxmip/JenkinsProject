@@ -4,6 +4,7 @@ META-DATA: {"description":"test","groups":["SMOKE"]}
     Given User launch browser
     And opens URL 'https://demo.google.com/'  
     And opens URL 'https://opencart.com/' 
+    Then click on button
    
     
     END
