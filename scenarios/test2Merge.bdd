@@ -6,6 +6,8 @@ META-DATA: {"description":"test","groups":["SMOKE"]}
     And opens URL 'https://opencart.com/' 
     Then click on button
     AND this line is added by Main 
+    AND added a new line by branch
+
    
     
     END
